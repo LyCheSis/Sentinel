@@ -1,0 +1,14 @@
+{
+  "name": "sentinel",
+  "version": "1.0.0",
+  "description": "webgl game",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "LyCheSis",
+  "license": "ISC",
+  "start": "http-server -a localhost -p 8080"
+}
